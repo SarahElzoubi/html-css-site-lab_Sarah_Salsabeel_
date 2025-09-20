@@ -1,5 +1,6 @@
 body{
   min-width:100%;
+  margin:0;
 }
 
 h2{
@@ -28,9 +29,9 @@ nav{
     color:aliceblue;
     font-size: 20px;
     display: flex;
-    font-weight: 500;
-    object-fit:scale-down;
+    font-weight: 500px;
     border-bottom-right-radius: 20px;
+   
    
 
   
@@ -41,7 +42,7 @@ nav{
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: flex start;
-    background-color: red;
+    
     
   }
 
@@ -149,10 +150,10 @@ nav{
 }
 
 .vertical-line {
-  border-left: 2px solid rgba(25,25,112);; 
+  border-left: 2px solid black;
       height: 370px;
       position:absolute;
-      margin-left: 50%;
+      margin-left: 48%;
       bottom:50px;
       
       
@@ -188,6 +189,6 @@ article{
   display: inline;
   margin-left:45%;
   
-  border-left: 2px solid rgba(25,25,112);; 
+  border-left: 2px solid rgba(25,25,112);
 }
 
