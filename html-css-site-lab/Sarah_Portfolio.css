@@ -1,0 +1,43 @@
+body{
+   
+}
+
+ul li{
+    display:inline;
+    font-family: system-ui;
+}
+
+.head_bar{
+    display: inline;
+}
+
+h1{
+    font-family: system-ui; 
+}
+
+nav{
+    background-image: url(./Assets/Midnight_blue.jpg);
+    padding:20px;
+    color:aliceblue;
+    font-size: 20px;
+    display: flex;
+    font-weight: 500;
+    object-fit:scale-down;
+  
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: flex start;
+    background-color: red;
+    
+  }
+
+  a{
+    
+    color:aliceblue;
+    text-decoration: none;
+
+   }

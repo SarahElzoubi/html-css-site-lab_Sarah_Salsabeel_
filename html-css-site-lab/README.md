@@ -1,2 +1,3 @@
-# html-css-site-lab_Sarah_Salsabeel_
+# html-css-site-lab*Sarah_Salsabeel*
+
 HW in pairs html/css
