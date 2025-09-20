@@ -150,11 +150,11 @@ nav{
 }
 
 .vertical-line {
-  border-left: 2px solid black;
-      height: 370px;
-      position:absolute;
-      margin-left: 48%;
-      bottom:50px;
+   border-left: 2px solid black;
+   height: 370px;
+   position:absolute;
+   margin-left: 50%;
+   bottom:50px;
       
       
      
